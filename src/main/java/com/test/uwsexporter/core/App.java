@@ -4,7 +4,7 @@
 package com.test.uwsexporter.core;
 
 /**
- * @author vlada
+ * @author Vladimir Šobić
  *
  */
 public class App {
